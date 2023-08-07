@@ -1,0 +1,8 @@
+{
+  "botToken": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "refreshInterval": 3600000,
+  "headers": {
+    "Accept": "HTTP_Accept_HEADER_HERE",
+    "User-Agent": "HTTP_User-Agent_HEADER_HERE"
+  }
+}
